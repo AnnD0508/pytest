@@ -1,0 +1,16 @@
+1. test_checkbox: http://the-internet.herokuapp.com/dynamic_controls
+Найти чекбокс
+Нажать на кнопку
+Дождаться надписи “It’s gone”
+Проверить, что чекбокса нет
+Найти инпут
+Проверить, что он disabled
+Нажать на кнопку
+Дождаться надписи “It's enabled!”
+Проверить, что инпут enabled
+
+
+2. test_frames: http://the-internet.herokuapp.com/iframe
+Frames
+Открыть iFrame
+Проверить, что текст внутри параграфа равен “Your content goes here.”
